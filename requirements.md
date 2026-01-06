@@ -722,8 +722,3 @@ PUT    /api/organizations/:id/pricing # Upload custom pricing
 - Miro Board: [RLVNT Portal Flow](https://miro.com/app/board/uXjVGYfPQyA=/)
 - RLVNT Website: [rlvnt.world](https://rlvnt.world)
 - Pricing Template: `rlvnt_pricing.csv`
-
----
-
-*Document maintained by the development team. Last updated: December 22, 2025*
-
