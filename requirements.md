@@ -1,7 +1,7 @@
 # RLVNT Campaign Portal - Requirements Specification
 
-> **Version**: 1.0  
-> **Last Updated**: December 22, 2025  
+> **Version**: 1.1  
+> **Last Updated**: January 6, 2026  
 > **Status**: Planning Phase
 
 ---
